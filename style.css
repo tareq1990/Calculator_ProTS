@@ -1,0 +1,28 @@
+.calculator {
+    max-width: 350px;
+    width: 100%;
+}
+
+.key {
+    height: 50px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.key-sq {
+    width: 50px !important;
+    font-size: 30px;
+}
+
+.key-circle {
+    width: 50px !important;
+    border-radius: 50%;
+    font-size: 45px;
+    color: black;
+}
+
+#equals {
+    width: 100% !important;
+    font-size: 40px;
+}
